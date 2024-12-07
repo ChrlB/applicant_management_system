@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author user
+ * @author ChrlB
  */
 public class Admin implements Serializable{
   protected static String setedUsername = "John";
